@@ -1,3 +1,18 @@
+# Personal Notes
+
+Changes can be made in `environments.json` and `commands.json`
+
+To apply the changes run the follwing:
+use `npm run compile` to compile changes
+then run `vsce package` to make a package for vs-code to install
+run `code --install-extension Nickels-latex-workshop-10.10.2.vsix` to install the changed package
+
+All together:
+
+`npm run compile && vsce package && code --install-extension Nickels-latex-workshop-10.10.2.vsix`
+
+You will have to reload your window your are writing your latex in to apply the changes. 
+
 # Visual Studio Code LaTeX Workshop Extension
 
 [![version](https://img.shields.io/visual-studio-marketplace/v/James-Yu.latex-workshop)](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)

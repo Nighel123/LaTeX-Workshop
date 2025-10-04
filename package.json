@@ -1,6 +1,6 @@
 {
-  "name": "latex-workshop",
-  "displayName": "LaTeX Workshop",
+  "name": "Nickels-latex-workshop",
+  "displayName": "Nickels LaTeX Workshop",
   "description": "Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.",
   "icon": "icons/icon.png",
   "version": "10.10.2",

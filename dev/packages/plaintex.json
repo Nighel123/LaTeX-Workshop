@@ -35,11 +35,6 @@
       "name": "AE"
     },
     {
-      "name": "aleph",
-      "detail": "ℵ",
-      "doc": "Aleph, hebrew"
-    },
-    {
       "name": "allocationnumber",
       "unusual": true
     },
